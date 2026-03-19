@@ -146,8 +146,8 @@ jupyter notebook
 
 ## 📬 Contact
 
-* GitHub: (Add your profile link)
-* LinkedIn: (Add your profile link)
+* GitHub: https://github.com/JayPatil-1119
+* LinkedIn: www.linkedin.com/in/jay-patil-5b10422a7
 
 ---
 
